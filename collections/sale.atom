@@ -1,0 +1,1011 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bewellna.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bewellna.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bewellna.com/collections/sale.atom"/>
+  <title>Bewell of North America LLC</title>
+  <updated>2021-04-21T18:58:09-04:00</updated>
+  <author>
+    <name>Bewell of North America LLC</name>
+  </author>
+  <entry>
+    <id>https://bewellna.com/products/1989916983358</id>
+    <published>2021-04-21T18:58:09-04:00</published>
+    <updated>2021-04-21T18:58:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bewellna.com/products/apollo"/>
+    <title>Apollo</title>
+    <s:type>Wood Watch</s:type>
+    <s:vendor>Bewell Watches</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/8887/9166/products/J5A9278.jpg?v=1604520527"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bewell Watches<br>
+        <strong>Type: </strong>Wood Watch<br>
+        <strong>Price: </strong>
+            49.00 - 69.00
+            <a href="https://bewellna.com/products/apollo">(10 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This natural variation in wood grain is an attractive feature of these wooden timepieces that every possessor of these will feel the uniqueness of it. </p>
+<p>At Bewell, we take great pride to our workmanship and serve our customers.</p>
+<ul>
+<li>Ship next business day with gift message as needed</li>
+<li>Watch and watch band rendered in real wood</li>
+<li>Japanese quartz movement </li>
+<li>Designed with calendar</li>
+<li>Stainless steel tri-fold clasp with push buttons </li>
+<li>Perfect to engrave personalized message in the back</li>
+</ul>
+<p>Specification:</p>
+<ul>
+<li>Case diameter: 47mm</li>
+<li>Band length: 230mm</li>
+<li>Case thickness: 12mm</li>
+<li>Band width: 24mm</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1.8 in</s:tag>
+    <s:tag>_related_apollo</s:tag>
+    <s:tag>African Blackwood</s:tag>
+    <s:tag>Apollo</s:tag>
+    <s:tag>Calendar</s:tag>
+    <s:tag>Engrave</s:tag>
+    <s:tag>Men</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Selected Watches For Engraving</s:tag>
+    <s:tag>Wood</s:tag>
+    <s:tag>Wooden</s:tag>
+    <s:variant>
+      <id>https://bewellna.com/products/1989916983358</id>
+      <title>African Blackwood</title>
+      <s:price currency="USD">59.00</s:price>
+      <s:sku>BW-W129AB2</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bewellna.com/products/1989916983358</id>
+      <title>Annatto</title>
+      <s:price currency="USD">69.00</s:price>
+      <s:sku>BW-W129AB3</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bewellna.com/products/1989916983358</id>
+      <title>Black Walnut</title>
+      <s:price currency="USD">59.00</s:price>
+      <s:sku>BW-W129AB4</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bewellna.com/products/1989916983358</id>
+      <title>Ebony &amp; Jujube</title>
+      <s:price currency="USD">59.00</s:price>
+      <s:sku>BW-W129AB5</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bewellna.com/products/1989916983358</id>
+      <title>Indian Rose Chestnut</title>
+      <s:price currency="USD">59.00</s:price>
+      <s:sku>BW-W129AB6</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bewellna.com/products/1989916983358</id>
+      <title>Jujube</title>
+      <s:price currency="USD">69.00</s:price>
+      <s:sku>BW-W129AB7</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bewellna.com/products/1989916983358</id>
+      <title>Jujube &amp; Red Sandalwood</title>
+      <s:price currency="USD">69.00</s:price>
+      <s:sku>BW-W129AB8</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bewellna.com/products/1989916983358</id>
+      <title>Black &amp; Red Sandalwood</title>
+      <s:price currency="USD">59.00</s:price>
+      <s:sku>BW-W129AB9</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bewellna.com/products/1989916983358</id>
+      <title>Red &amp; Black Sandalwood-Bezel</title>
+      <s:price currency="USD">59.00</s:price>
+      <s:sku>BW-W129AB10</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bewellna.com/products/1989916983358</id>
+      <title>Tussah Yamaki</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>BW-W129AB11</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bewellna.com/products/1988011786302</id>
+    <published>2021-03-12T15:48:33-05:00</published>
+    <updated>2021-03-12T15:48:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bewellna.com/products/zebrawood-cupid"/>
+    <title>Cupid · Zebrawood</title>
+    <s:type>Wood Watch</s:type>
+    <s:vendor>Bewell Watches</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/8887/9166/products/J5A0101.jpg?v=1601778444"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bewell Watches<br>
+        <strong>Type: </strong>Wood Watch<br>
+        <strong>Price: </strong>
+            59.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Zebrawood Cupid Minimalist wood watch is made from 100% natural zebrawood with 1.5 inches dial and Japanese movement and the wood strap is adjustable in size. Because the wood grain pattern is naturally different each piece, every wood watch is different as well. This natural variation in wood grain is an attractive feature of these wooden timepieces that every collector of these will feel the uniqueness of it. </p>
+<p>At Bewell, we take great pride in our workmanship and serve our customers.</p>
+<ul>
+<li>Ship next business day with a gift message as needed</li>
+<li>Watch and watch band rendered in real zebrawood</li>
+<li>Japanese quartz movement </li>
+<li>Designed with calendar</li>
+<li>Stainless steel tri-fold clasp with push buttons </li>
+<li>Water resistance to 3 ATM</li>
+<li>Minimalist style to fit simple lifestyle</li>
+</ul>
+<p>Specification: </p>
+<ul>
+<li><span>Band Length: 8.66 inch</span></li>
+<li><span>Band Material Type: Wooden</span></li>
+<li><span>Band Width: 20mm</span></li>
+<li><span>Case material: Wooden</span></li>
+<li><span>Case Shape: Round</span></li>
+<li><span>Clasp type: Folding Clasp</span></li>
+<li><span>Dial Diameter: 1.68 inch</span></li>
+<li><span>Dial Display: Analog</span></li>
+<li><span>Dial Window Material Type: Hardlex</span></li>
+<li><span>Feature: Date, Luminous</span></li>
+<li><span>Gender: Men</span></li>
+<li><span>Movement: Quartz</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1.7 in</s:tag>
+    <s:tag>Men</s:tag>
+    <s:tag>Old</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Wood</s:tag>
+    <s:tag>Zebrawood</s:tag>
+    <s:variant>
+      <id>https://bewellna.com/products/1988011786302</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.00</s:price>
+      <s:sku>BW-W127AZ</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bewellna.com/products/1989883854910</id>
+    <published>2021-03-12T15:47:32-05:00</published>
+    <updated>2021-03-12T15:47:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bewellna.com/products/red-sandalwood-cupid"/>
+    <title>Cupid · Red Sandalwood</title>
+    <s:type>Wood Watch</s:type>
+    <s:vendor>Bewell Watches</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/8887/9166/products/J5A0197.jpg?v=1601778223"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bewell Watches<br>
+        <strong>Type: </strong>Wood Watch<br>
+        <strong>Price: </strong>
+            59.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Red Sandalwood Cupid Minimalist wood watch is made from 100% natural red sandalwood. Japanese movement and the wood strap is adjustable in size.  </p>
+<p>Because the wood grain pattern is naturally different each time, every wood watch is different as well. This natural variation in wood grain is an attractive feature of these wooden timepieces that every possessor of these will feel the uniqueness of it. </p>
+<p>At Bewell, we take great pride to our workmanship and serve our customers.</p>
+<ul>
+<li>Ship next business day with gift message as needed</li>
+<li>Watch and watch band rendered in real wood</li>
+<li>Japanese quartz movement </li>
+<li>Designed with calendar</li>
+<li>Stainless steel tri-fold clasp with push buttons </li>
+</ul>
+<p>Specification: </p>
+<ul>
+<li><span>Band Length: 8.66 inch</span></li>
+<li><span>Band Material Type: Wooden</span></li>
+<li><span>Band Width: 20mm</span></li>
+<li><span>Case material: Wooden</span></li>
+<li><span>Case Shape: Round</span></li>
+<li><span>Clasp type: Folding Clasp</span></li>
+<li><span>Dial Diameter: 1.68 inch</span></li>
+<li><span>Dial Display: Analog</span></li>
+<li><span>Dial Window Material Type: Hardlex</span></li>
+<li><span>Feature: Date, Luminous</span></li>
+<li><span>Gender: Men</span></li>
+<li><span>Movement: Quartz</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1.7 in</s:tag>
+    <s:tag>Men</s:tag>
+    <s:tag>Old</s:tag>
+    <s:tag>Red Sandalwood</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Sandalwood</s:tag>
+    <s:tag>Wood</s:tag>
+    <s:variant>
+      <id>https://bewellna.com/products/1989883854910</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.00</s:price>
+      <s:sku>BW-W127AR</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bewellna.com/products/1988031643710</id>
+    <published>2021-03-12T15:46:54-05:00</published>
+    <updated>2021-03-12T15:46:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bewellna.com/products/maple-cupid"/>
+    <title>Cupid · Maple</title>
+    <s:type>Wood Watch</s:type>
+    <s:vendor>Bewell Watches</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/8887/9166/products/J5A0156.jpg?v=1601778038"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bewell Watches<br>
+        <strong>Type: </strong>Wood Watch<br>
+        <strong>Price: </strong>
+            59.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Maple Cupid Minimalist wood watch is made from 100% natural Maple. Because the wood grain pattern is naturally different each piece, every wood watch is different as well. This natural variation in wood grain is an attractive feature of these wooden timepieces that every possessor of these will feel the uniqueness of it. </p>
+<p>At Bewell, we take great pride to our workmanship and serve our customers.</p>
+<ul>
+<li>Ship next business day with gift message as needed</li>
+<li>Watch and watch band rendered in real wood</li>
+<li>Japanese quartz movement </li>
+<li>Designed with calendar</li>
+<li>Stainless steel tri-fold clasp with push buttons </li>
+<li>Water resistance to 3 ATM</li>
+<li>Minimalist style to fit simple life style</li>
+</ul>
+<p>Specification: </p>
+<ul>
+<li><span>Band Length: 8.66 inch</span></li>
+<li><span>Band Material Type: Wooden</span></li>
+<li><span>Band Width: 20mm</span></li>
+<li><span>Case material: Wooden</span></li>
+<li><span>Case Shape: Round</span></li>
+<li><span>Clasp type: Folding Clasp</span></li>
+<li><span>Dial Diameter: 1.68 inch</span></li>
+<li><span>Dial Display: Analog</span></li>
+<li><span>Dial Window Material Type: Hardlex</span></li>
+<li><span>Feature: Date, Luminous</span></li>
+<li><span>Gender: Men</span></li>
+<li><span>Movement: Quartz</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1.7 in</s:tag>
+    <s:tag>Maple</s:tag>
+    <s:tag>Men</s:tag>
+    <s:tag>Old</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Wood</s:tag>
+    <s:variant>
+      <id>https://bewellna.com/products/1988031643710</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.00</s:price>
+      <s:sku>BW-W127AM</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bewellna.com/products/1988042260542</id>
+    <published>2021-03-12T15:11:58-05:00</published>
+    <updated>2021-03-12T15:11:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bewellna.com/products/cupid"/>
+    <title>Cupid</title>
+    <s:type>Wood Watch</s:type>
+    <s:vendor>Bewell Watches</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/8887/9166/products/J5A0167.jpg?v=1601778343"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bewell Watches<br>
+        <strong>Type: </strong>Wood Watch<br>
+        <strong>Price: </strong>
+            59.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Cupid Minimalist wood watch is made from 100% natural ebony, maple, red sandalwood, and zebrawood. Japanese movement and the wood strap is adjustable in size.  Because the wood grain pattern is naturally different each piece, every wood watch is different as well. This natural variation in wood grain is an attractive feature of these wooden timepieces that every possessor of these will feel the uniqueness of it. </p>
+<p>At Bewell, we take great pride to our workmanship and serve our customers.</p>
+<ul>
+<li>Ship next business day with gift message as needed</li>
+<li>Watch and watch band rendered in real wood</li>
+<li>Minimalist design</li>
+<li>Japanese quartz movement </li>
+<li>Designed with calendar and luminous dial</li>
+<li>Stainless steel tri-fold clasp with push buttons </li>
+</ul>
+<p>Specification: </p>
+<ul>
+<li><span><meta charset="utf-8">Dial Diameter: 43mm</span></li>
+<li><span>Case thickness: 9mm</span></li>
+<li><span>Band Length: 220mm</span></li>
+<li>Band Width: 20mm</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1.7 in</s:tag>
+    <s:tag>Blackwood</s:tag>
+    <s:tag>Calendar</s:tag>
+    <s:tag>Men</s:tag>
+    <s:tag>Old</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Wood</s:tag>
+    <s:variant>
+      <id>https://bewellna.com/products/1988042260542</id>
+      <title>Ebony</title>
+      <s:price currency="USD">59.00</s:price>
+      <s:sku>BW-W127AB3</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bewellna.com/products/1988042260542</id>
+      <title>Maple</title>
+      <s:price currency="USD">59.00</s:price>
+      <s:sku>BW-W127AB4</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bewellna.com/products/1988042260542</id>
+      <title>Zebrawood</title>
+      <s:price currency="USD">59.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bewellna.com/products/1988042260542</id>
+      <title>Red Sandalwood</title>
+      <s:price currency="USD">59.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bewellna.com/products/1991032209470</id>
+    <published>2019-01-17T12:46:10-05:00</published>
+    <updated>2019-01-17T12:46:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bewellna.com/products/thanatos"/>
+    <title>Thanatos</title>
+    <s:type>Wood Watch</s:type>
+    <s:vendor>Bewell Watches</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/8887/9166/products/J5A0015.jpg?v=1601841596"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bewell Watches<br>
+        <strong>Type: </strong>Wood Watch<br>
+        <strong>Price: </strong>
+            69.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This Verawood Thanatos wood watch is made from 100% natural Verawood with Japanese watch movement and is adjustable in size.Because the wood grain pattern is naturally different each time, every wood watch is different as well. This natural variation in wood grain is an attractive feature of these wooden timepieces that every possessor of these will feel the uniqueness of it.</p>
+<p>At Bewell, we take great pride to our workmanship and serve our customers.</p>
+<ul>
+<li>Ship next business day with gift message as needed</li>
+<li>Watch and watch band rendered in real wood</li>
+<li>Japanese quartz movement </li>
+<li>Designed with calendar</li>
+<li>Stainless steel tri-fold clasp with push buttons </li>
+<li>Water resistance 3 ATM</li>
+<li>Case size: 1.7 inches</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1.8 in</s:tag>
+    <s:tag>Calendar</s:tag>
+    <s:tag>Engrave</s:tag>
+    <s:tag>Men</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Selected Watches For Engraving</s:tag>
+    <s:tag>Thanatos</s:tag>
+    <s:tag>Verawood</s:tag>
+    <s:tag>Wood</s:tag>
+    <s:variant>
+      <id>https://bewellna.com/products/1991032209470</id>
+      <title>African Blackwood</title>
+      <s:price currency="USD">69.00</s:price>
+      <s:sku>BW-W023BV-1</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bewellna.com/products/1991032209470</id>
+      <title>Verawood</title>
+      <s:price currency="USD">69.00</s:price>
+      <s:sku>BW-W023BV-2</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bewellna.com/products/1991032209470</id>
+      <title>Maple</title>
+      <s:price currency="USD">69.00</s:price>
+      <s:sku>BW-W023BV-3</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bewellna.com/products/1991032209470</id>
+      <title>Maple &amp; Red Sandalwood</title>
+      <s:price currency="USD">69.00</s:price>
+      <s:sku>BW-W023BV-4</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bewellna.com/products/1991032209470</id>
+      <title>Red Sandalwood</title>
+      <s:price currency="USD">69.00</s:price>
+      <s:sku>BW-W023BV-5</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bewellna.com/products/1989822480446</id>
+    <published>2019-01-14T15:32:59-05:00</published>
+    <updated>2019-01-14T15:32:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bewellna.com/products/mars"/>
+    <title>Mars</title>
+    <s:type>Wood Watch</s:type>
+    <s:vendor>Bewell Watches</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/8887/9166/products/J5A9987.jpg?v=1601838889"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bewell Watches<br>
+        <strong>Type: </strong>Wood Watch<br>
+        <strong>Price: </strong>
+            79.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Red Sandalwood Mars wood watch is made from 100% natural red sandalwood with beautiful color tone and grain coupled with high-quality. Japanese movement and the wood strap is adjustable in size. Because the wood grain pattern is naturally different each time, every wood watch is different as well. This natural variation in wood grain is an attractive feature of these wooden timepieces that every possessor of these will feel the uniqueness of it. </p>
+<p>At Bewell, we take great pride to our workmanship and provide great service to our customers.</p>
+<ul>
+<li>Ship next business day with gift message on the card as needed</li>
+<li>Watch and watch band rendered in real wood</li>
+<li>Japanese quartz movement </li>
+<li>Designed with calendar</li>
+<li>Stainless steel simple clasp with easy click lock. </li>
+<li>Water resistance up to 3 ATM</li>
+<li>Case size: 1.8 inches</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1.7 in</s:tag>
+    <s:tag>Calendar</s:tag>
+    <s:tag>Men</s:tag>
+    <s:tag>Old</s:tag>
+    <s:tag>Red Sandalwood</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Sandalwood</s:tag>
+    <s:tag>Wood</s:tag>
+    <s:variant>
+      <id>https://bewellna.com/products/1989822480446</id>
+      <title>Ebony</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>BW-W109BR-1</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bewellna.com/products/1989822480446</id>
+      <title>Red Sandalwood</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>BW-W109BR-2</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bewellna.com/products/1989822480446</id>
+      <title>Maple &amp; Red Sandalwood</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>BW-W109BR-3</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bewellna.com/products/1989822480446</id>
+      <title>Verawood</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>BW-W109BR-4</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bewellna.com/products/1989822480446</id>
+      <title>Zebrawood</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>BW-W109BR-5</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bewellna.com/products/1988020109374</id>
+    <published>2019-01-11T22:14:41-05:00</published>
+    <updated>2019-01-11T22:14:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bewellna.com/products/pluto"/>
+    <title>Pluto</title>
+    <s:type>Wood Watch</s:type>
+    <s:vendor>Bewell Watches</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/8887/9166/products/J5A0131_5eba170d-ecec-4bd4-accc-0841f4102a5b.jpg?v=1604508528"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bewell Watches<br>
+        <strong>Type: </strong>Wood Watch<br>
+        <strong>Price: </strong>
+            79.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Pluto wood watch is made from 100% natural ebony, maple, red sandalwood, and verawood. Japanese movement and the wood strap is adjustable in size. Because the wood grain pattern is naturally different each time, every wood watch is different as well. This natural variation in wood grain is an attractive feature of these wooden timepieces that every possessor of these will feel the uniqueness of it. </p>
+<p>At Bewell, we take great pride to our workmanship and provide great service to our customers.</p>
+<ul>
+<li>Ship next business day with gift message on card as needed</li>
+<li>Watch and watch band rendered in real wood</li>
+<li>Japanese quartz movement </li>
+<li>Designed with calendar</li>
+<li>Stainless steel tri-fold clasp with push buttons </li>
+<li>Water resistance 3 ATM</li>
+</ul>
+<p>Specification: </p>
+<ul>
+<li>Case diameter:46mm</li>
+<li>Case thickness: 10mm</li>
+<li>Band length: 220mm</li>
+<li>Band width: 24mm</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1.8 in</s:tag>
+    <s:tag>_related_pluto</s:tag>
+    <s:tag>Ebony</s:tag>
+    <s:tag>Maple</s:tag>
+    <s:tag>Men</s:tag>
+    <s:tag>Old</s:tag>
+    <s:tag>Pluto</s:tag>
+    <s:tag>Red Sandalwood</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Verawood</s:tag>
+    <s:tag>Wood</s:tag>
+    <s:variant>
+      <id>https://bewellna.com/products/1988020109374</id>
+      <title>Ebony</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>BW-W065AB1</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bewellna.com/products/1988020109374</id>
+      <title>Maple</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>BW-W065AB2</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bewellna.com/products/1988020109374</id>
+      <title>Red Sandalwood</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>BW-W065AB3</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bewellna.com/products/1988020109374</id>
+      <title>Verawood</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bewellna.com/products/1988006248510</id>
+    <published>2019-01-11T20:47:32-05:00</published>
+    <updated>2019-01-11T20:47:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bewellna.com/products/poseidon"/>
+    <title>Poseidon</title>
+    <s:type>Wood Watch</s:type>
+    <s:vendor>Bewell Watches</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/8887/9166/products/J5A0088.jpg?v=1601776739"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bewell Watches<br>
+        <strong>Type: </strong>Wood Watch<br>
+        <strong>Price: </strong>
+            69.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Luxury and fashionable BLACK BLACKWOOD POSEIDON wood watch for him.</p>
+<p>This POSEIDON wood watch is made from 100% natural black sandalwood. Miyota watch movement from Japan and is adjustable in size.  Because the wood grain pattern is naturally different each time, every wood watch is different as well. This natural variation in wood grain is an attractive feature of these wooden timepieces that every possessor of these will feel the uniqueness of it. </p>
+<p> At Bewell, we take great pride to our workmanship and serve our customers.</p>
+<ul>
+<li>Ship next business day with gift message as needed</li>
+<li>Watch and watch band rendered in real wood</li>
+<li>Japanese quartz movement </li>
+<li>Designed with calendar</li>
+<li>Stainless steel tri-fold clasp with push buttons </li>
+<li>Water resistance 3 ATM</li>
+<li>Case size: 1.8 inches</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1.8 in</s:tag>
+    <s:tag>African Blackwood</s:tag>
+    <s:tag>Calendar</s:tag>
+    <s:tag>Men</s:tag>
+    <s:tag>Old</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Sandalwood</s:tag>
+    <s:tag>Wood</s:tag>
+    <s:tag>Wooden</s:tag>
+    <s:variant>
+      <id>https://bewellna.com/products/1988006248510</id>
+      <title>Black Sandalwood</title>
+      <s:price currency="USD">69.00</s:price>
+      <s:sku>BW-W023AB2</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bewellna.com/products/1988006248510</id>
+      <title>African Blackwood</title>
+      <s:price currency="USD">69.00</s:price>
+      <s:sku>BW-W023AB3</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bewellna.com/products/1988006248510</id>
+      <title>Red Sandalwood</title>
+      <s:price currency="USD">69.00</s:price>
+      <s:sku>BW-W023AB4</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bewellna.com/products/1987925180478</id>
+    <published>2019-01-11T18:23:42-05:00</published>
+    <updated>2019-01-11T18:23:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bewellna.com/products/venus"/>
+    <title>Venus</title>
+    <s:type>Wood Watch</s:type>
+    <s:vendor>Bewell Watches</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/8887/9166/products/J5A4227.jpg?v=1604508790"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bewell Watches<br>
+        <strong>Type: </strong>Wood Watch<br>
+        <strong>Price: </strong>
+            79.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Zebrawood Venus watch is made from 100% natural zebrawood with Japanese movement and the wood strap is adjustable in size. Because the wood grain pattern is naturally different each time, every wood watch is different as well. This natural variation in wood grain is an attractive feature of these wooden timepieces that every possessor of these will feel the uniqueness of it. </p>
+<p>At Bewell, we take great pride to our workmanship and provide great service to our customers.</p>
+<ul>
+<li>Ship next business day </li>
+<li>Watch and watch band rendered in real wood</li>
+<li>Japanese quartz movement </li>
+<li>Designed with calendar</li>
+<li>Stainless steel tri-fold clasp with push buttons </li>
+<li>Case size: 1.8 inch (men) / 1.2 inch (women)</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1.2 in</s:tag>
+    <s:tag>1.8 in</s:tag>
+    <s:tag>Calendar</s:tag>
+    <s:tag>Engrave</s:tag>
+    <s:tag>Maple</s:tag>
+    <s:tag>Men</s:tag>
+    <s:tag>Old</s:tag>
+    <s:tag>Red Sandalwood</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Selected Watches For Engraving</s:tag>
+    <s:tag>Venus</s:tag>
+    <s:tag>Women</s:tag>
+    <s:tag>Wood</s:tag>
+    <s:tag>Zebrawood</s:tag>
+    <s:variant>
+      <id>https://bewellna.com/products/1987925180478</id>
+      <title>Men / Zebrawood</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>BW-W100AGZ</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bewellna.com/products/1987925180478</id>
+      <title>Women / Zebrawood</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>BW-W100ALZ-2</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bewellna.com/products/1987925180478</id>
+      <title>Men / Maple</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>BW-W100AGZ-1</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bewellna.com/products/1987925180478</id>
+      <title>Women / Maple</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>BW-W100ALZ-1</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bewellna.com/products/1987925180478</id>
+      <title>Men / Red Sandalwood</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>BW-W100ALZ-3</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bewellna.com/products/1987925180478</id>
+      <title>Women / Red Sandalwood</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>BW-W100ALZ-4</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bewellna.com/products/1987925180478</id>
+      <title>Men / Maple &amp; Red Sandalwood</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>BW-W100ALZ-5</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bewellna.com/products/1987925180478</id>
+      <title>Women / Maple &amp; Red Sandalwood</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>BW-W100ALZ-6</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bewellna.com/products/1986662727742</id>
+    <published>2019-01-09T11:06:36-05:00</published>
+    <updated>2019-01-09T11:06:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bewellna.com/products/mercury"/>
+    <title>Mercury</title>
+    <s:type>Wood Watch</s:type>
+    <s:vendor>Bewell Watches</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/8887/9166/products/Capture7209-2.jpg?v=1601842395"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bewell Watches<br>
+        <strong>Type: </strong>Wood Watch<br>
+        <strong>Price: </strong>
+            89.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This Mercury wood watch come in four different colors and wood species. Mercury watch shows two different time zones with hour and minute on a rectangle dial.</p>
+<p>The Mercury is made from 100% natural wood, Strap and case are made of 100% natural wood of the following kind: Red sandal wood, black sandal wood, Maple wood or zebra wood with Miyota watch movement from Japan and is adjustable in size.  Please note that due to the nature of wood, all products are unique, one-of-a-kind, and will differ from the one pictured on our website.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black Sandalwood</s:tag>
+    <s:tag>Dual Time Zone</s:tag>
+    <s:tag>Engrave</s:tag>
+    <s:tag>Maple</s:tag>
+    <s:tag>Mercury</s:tag>
+    <s:tag>Old</s:tag>
+    <s:tag>Red Sandalwood</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Sandalwood</s:tag>
+    <s:tag>Selected Watches For Engraving</s:tag>
+    <s:tag>Unisex</s:tag>
+    <s:tag>Wood</s:tag>
+    <s:tag>Zebrawood</s:tag>
+    <s:variant>
+      <id>https://bewellna.com/products/1986662727742</id>
+      <title>Red Sandalwood</title>
+      <s:price currency="USD">89.00</s:price>
+      <s:sku>BW-W021C-1</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bewellna.com/products/1986662727742</id>
+      <title>Ebony</title>
+      <s:price currency="USD">89.00</s:price>
+      <s:sku>BW-W021C-2</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bewellna.com/products/1986662727742</id>
+      <title>Maple</title>
+      <s:price currency="USD">89.00</s:price>
+      <s:sku>BW-W021C-3</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bewellna.com/products/1986662727742</id>
+      <title>Zebrawood</title>
+      <s:price currency="USD">89.00</s:price>
+      <s:sku>BW-W021C-4</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bewellna.com/products/1976694439998</id>
+    <published>2018-12-16T00:30:13-05:00</published>
+    <updated>2018-12-16T00:30:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bewellna.com/products/juno"/>
+    <title>Juno</title>
+    <s:type>Wood Watch</s:type>
+    <s:vendor>Bewell Watches</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/8887/9166/products/J5A9840.jpg?v=1604520567"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bewell Watches<br>
+        <strong>Type: </strong>Wood Watch<br>
+        <strong>Price: </strong>
+            69.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This Juno wood watch is made from 100% natural maple &amp; red sandalwood, and maple with ebony. Japanese watch movement and is adjustable in size. Because the wood grain pattern is naturally different each time, every wood watch is different as well. This natural variation in wood grain is an attractive feature of these wooden timepieces that every possessor of these will feel the uniqueness of it. </p>
+<p> At Bewell, we take great pride in our workmanship and serve our customers.</p>
+<ul>
+<li>Ship next business day with a gift message as needed</li>
+<li>Watch and watch band rendered in real wood</li>
+<li>Japanese quartz movement </li>
+<li>Stainless steel tri-fold clasp with push buttons </li>
+<li>Water resistance 3 ATM</li>
+<li>Case size: 1.7 inches / 1.5 inches</li>
+</ul>
+<p>Specification: </p>
+<ul>
+<li>Men's size: </li>
+<ul>
+<li>Case diameter: 41mm</li>
+<li>Band width: 22mm</li>
+<li>Band length: 20cm </li>
+</ul>
+<li>Women's size:</li>
+<ul>
+<li>Case diameter: 38mm</li>
+<li>Band width: 18mm</li>
+<li>Band length:18.5cm</li>
+</ul>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1.5 in</s:tag>
+    <s:tag>1.7 in</s:tag>
+    <s:tag>_related_juno</s:tag>
+    <s:tag>Calendar</s:tag>
+    <s:tag>Juno</s:tag>
+    <s:tag>Maple</s:tag>
+    <s:tag>Men</s:tag>
+    <s:tag>Old</s:tag>
+    <s:tag>Red Sandalwood</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Sandalwood</s:tag>
+    <s:tag>Women</s:tag>
+    <s:tag>Wood</s:tag>
+    <s:variant>
+      <id>https://bewellna.com/products/1976694439998</id>
+      <title>Maple &amp; Red Sandalwood / Men</title>
+      <s:price currency="USD">69.00</s:price>
+      <s:sku>BW-W128AG-1</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bewellna.com/products/1976694439998</id>
+      <title>Maple &amp; Red Sandalwood / Women</title>
+      <s:price currency="USD">69.00</s:price>
+      <s:sku>BW-W128AG-2</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bewellna.com/products/1976694439998</id>
+      <title>Ebony &amp; Maple / Men</title>
+      <s:price currency="USD">69.00</s:price>
+      <s:sku>BW-W128AG-3</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bewellna.com/products/1976694439998</id>
+      <title>Ebony &amp; Maple / Women</title>
+      <s:price currency="USD">69.00</s:price>
+      <s:sku>BW-W128AG-4</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+  </entry>
+</feed>

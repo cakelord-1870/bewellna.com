@@ -1,0 +1,709 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bewellna.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bewellna.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bewellna.com/collections/engraved-craft.atom"/>
+  <title>Bewell of North America LLC</title>
+  <updated>2020-12-02T18:37:23-05:00</updated>
+  <author>
+    <name>Bewell of North America LLC</name>
+  </author>
+  <entry>
+    <id>https://bewellna.com/products/4770888908862</id>
+    <published>2020-12-02T18:37:23-05:00</published>
+    <updated>2020-12-02T18:37:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bewellna.com/products/premium-italian-leather-face-mask-ear-saver-strap"/>
+    <title>Premium Italian Leather  Ear Saver Strap for Face Mask</title>
+    <s:type>Strap</s:type>
+    <s:vendor>Bewell of North America LLC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/8887/9166/products/J5A6402.jpg?v=1606952153"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bewell of North America LLC<br>
+        <strong>Type: </strong>Strap<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Our simple and stylish ear saver keeps your face mask secured all day, removing the tension and ensuring a comfortable fit!</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">Our premium Italian leather ear saver is made of top grain premium Italian leather. We gladly offer our life time warranty with 100% satisfaction. The leather strap features circular mask loop holders riveted onto the 1" leather strap. Simply place each mask ear loop around the respective rivet, and your mask will stay in place.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">These ear savers are designed for traditional face masks with ear loops on each side. </span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">Each ear saver leather strap measures 1" wide, with 5" in length. (You can order different size, but 5" will fit most of our customer need. </span><br></p>
+<p><span data-mce-fragment="1">This handmade premium Italian leather strap is proudly designed and made in our facility in the US and it is made to order.</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ear saver strap</s:tag>
+    <s:tag>Leather</s:tag>
+    <s:variant>
+      <id>https://bewellna.com/products/4770888908862</id>
+      <title>red</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>strap 2020</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bewellna.com/products/4770888908862</id>
+      <title>black</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>strap 2021</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bewellna.com/products/4770888908862</id>
+      <title>brown</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>strap 2022</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bewellna.com/products/4770888908862</id>
+      <title>light blue</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>strap 2023</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bewellna.com/products/4770888908862</id>
+      <title>yellow</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>strap 2024</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bewellna.com/products/4770888908862</id>
+      <title>organge</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>strap 2025</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bewellna.com/products/4770888908862</id>
+      <title>dark green</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>strap 2026</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bewellna.com/products/4770888908862</id>
+      <title>milky white</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>strap 2027</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bewellna.com/products/4770888908862</id>
+      <title>white</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>strap 2028</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bewellna.com/products/4766833639486</id>
+    <published>2020-11-23T14:49:31-05:00</published>
+    <updated>2020-11-23T14:49:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bewellna.com/products/wireless-super-fast-wood-charger"/>
+    <title>Beloved Wireless Super Fast Wood Charger</title>
+    <s:type>Engraved Woodcraft</s:type>
+    <s:vendor>Bewell of North America LLC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/8887/9166/products/1_1_69b6391c-b26b-4d37-b2f2-fbbb9d28c1bf.jpg?v=1606160880"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bewell of North America LLC<br>
+        <strong>Type: </strong>Engraved Woodcraft<br>
+        <strong>Price: </strong>
+            59.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5 class="wt-text-body-03 wt-line-height-tight wt-break-word wt-mb-xs-1" data-listing-id="736700568" data-mce-fragment="1">BELOVED PERSONALIZED WOOD WIRELESS CHARGER, QI CHARGING PAD. WILL CHARGE IPHONE 11/PRO 11 PRO MAX,XS MAX/XS/XR/X/8/8 PLUS, AIRPODS 2, GALAXY S9/S8/S7</h5>
+<p data-mce-fragment="1">The charger charged with Love.</p>
+<p data-mce-fragment="1">Can be personalized with your lovely message and image.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Engrave</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>wireless charger</s:tag>
+    <s:tag>Wood</s:tag>
+    <s:variant>
+      <id>https://bewellna.com/products/4766833639486</id>
+      <title>Bamboo</title>
+      <s:price currency="USD">59.00</s:price>
+      <s:sku>WC-Red15w-1</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bewellna.com/products/4766833639486</id>
+      <title>Maple</title>
+      <s:price currency="USD">59.00</s:price>
+      <s:sku>WC-Red15w-2</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bewellna.com/products/4766833639486</id>
+      <title>Cherry</title>
+      <s:price currency="USD">59.00</s:price>
+      <s:sku>WC-Red15w-3</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bewellna.com/products/4766833639486</id>
+      <title>Black walnut</title>
+      <s:price currency="USD">59.00</s:price>
+      <s:sku>WC-Red15w-4</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bewellna.com/products/4766833639486</id>
+      <title>Red Sandalwood</title>
+      <s:price currency="USD">59.00</s:price>
+      <s:sku>WC-Red15w-5</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bewellna.com/products/4749957005374</id>
+    <published>2020-10-21T12:24:20-04:00</published>
+    <updated>2020-10-21T12:24:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bewellna.com/products/wood-power-bank"/>
+    <title>Wood Power Bank</title>
+    <s:type>Engraved Woodcraft</s:type>
+    <s:vendor>Bewell of North America LLC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/8887/9166/products/il_794xN.2521339324_oyma.jpg?v=1603297461"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bewell of North America LLC<br>
+        <strong>Type: </strong>Engraved Woodcraft<br>
+        <strong>Price: </strong>
+            49.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5 data-listing-id="787739949" class="wt-text-body-03 wt-line-height-tight wt-break-word wt-mb-xs-1" data-mce-fragment="1">Personalized Power Bank, Laser Engraved Bamboo Power Bank, Custom Wood Portable Charger, Personalized Travel Phone Charger</h5>
+<p>Can be customized with personal message and image.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://bewellna.com/products/4749957005374</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>BL-PB</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bewellna.com/products/4749950681150</id>
+    <published>2020-10-21T12:05:56-04:00</published>
+    <updated>2020-10-21T12:05:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bewellna.com/products/beloved-wireless-charger-with-fast-charging"/>
+    <title>Beloved Wireless Charger with fast charging</title>
+    <s:type>Engraved Woodcraft</s:type>
+    <s:vendor>Bewell of North America LLC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/8887/9166/products/1_8.jpg?v=1603568737"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bewell of North America LLC<br>
+        <strong>Type: </strong>Engraved Woodcraft<br>
+        <strong>Price: </strong>
+            49.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5 data-mce-fragment="1" class="wt-text-body-03 wt-line-height-tight wt-break-word wt-mb-xs-1" data-listing-id="736700568">Beloved Personalized Wood Wireless Charger, Qi Charging Pad. Will charge iPhone 11/Pro 11 Pro Max,Xs Max/XS/XR/X/8/8 Plus, AirPods 2, Galaxy S9/S8/S7</h5>
+<p>The charger charged with Love.</p>
+<p>Can be personalized with your lovely message and image. 10W, </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10w</s:tag>
+    <s:tag>beloved wireless charger</s:tag>
+    <s:variant>
+      <id>https://bewellna.com/products/4749950681150</id>
+      <title>Maple</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>BC-10W-1</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bewellna.com/products/4749950681150</id>
+      <title>Bamboo</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>BC-10W-2</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bewellna.com/products/4749950681150</id>
+      <title>Black Walnut</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>BC-10W-3</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bewellna.com/products/4749950681150</id>
+      <title>light walnut</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>BC-10W-4</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bewellna.com/products/4749950681150</id>
+      <title>Red Sandalwood</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>BC-10W-5</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bewellna.com/products/4713989013566</id>
+    <published>2020-08-30T09:50:04-04:00</published>
+    <updated>2020-08-30T09:50:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bewellna.com/products/wood-watch-engraving"/>
+    <title>Wood Watch Engraving</title>
+    <s:type>Engraved Woodcraft</s:type>
+    <s:vendor>Bewell of North America LLC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/8887/9166/products/90I9804_5d88e3f6-fd62-4788-909f-ce544540523b.jpg?v=1603634779"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bewell of North America LLC<br>
+        <strong>Type: </strong>Engraved Woodcraft<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Bewell will engrave text and photo on your selected wood watches purchased from us. Laser engraving makes the wood watch perfect memorable gift.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://bewellna.com/products/4713989013566</id>
+      <title>Default Title</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bewellna.com/products/4709128994878</id>
+    <published>2020-08-25T10:42:53-04:00</published>
+    <updated>2020-08-25T10:42:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bewellna.com/products/upgrade-wooden-gift-box"/>
+    <title>Upgrade Wooden Gift Box</title>
+    <s:type>Engraved Woodcraft</s:type>
+    <s:vendor>Bewell of North America LLC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/8887/9166/products/90I6787_0183a304-e2ad-4916-bb6d-4e7f0bbbb442.jpg?v=1604332036"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bewell of North America LLC<br>
+        <strong>Type: </strong>Engraved Woodcraft<br>
+        <strong>Price: </strong>
+            5.00 - 40.00
+            <a href="https://bewellna.com/products/upgrade-wooden-gift-box">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Engrave your message or photos with laser engraving onto the wooden gift box, along with the Bewell wood watches purchased from us. Great gift options.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BOLD_HIDDEN_PRODUCT</s:tag>
+    <s:tag>OPTIONS_HIDDEN_PRODUCT</s:tag>
+    <s:variant>
+      <id>https://bewellna.com/products/4709128994878</id>
+      <title>Wooden Box + Text Engraving</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bewellna.com/products/4709128994878</id>
+      <title>Wooden Box + Image Engraving</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bewellna.com/products/4709128994878</id>
+      <title>Upgrade Wooden Gift Box</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bewellna.com/products/4709128994878</id>
+      <title>Watch + Box Engraving</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bewellna.com/products/4504194318398</id>
+    <published>2020-04-27T20:50:22-04:00</published>
+    <updated>2020-04-27T20:50:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bewellna.com/products/photo-mounted-on-minimalist-frame"/>
+    <title>Photo Mounted On Minimalist Frame</title>
+    <s:type>Engraved Woodcraft</s:type>
+    <s:vendor>Bewell of North America LLC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/8887/9166/products/90I8026.jpg?v=1602621594"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bewell of North America LLC<br>
+        <strong>Type: </strong>Engraved Woodcraft<br>
+        <strong>Price: </strong>
+            49.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our print master prints your lovely photo using HP pigment ink that will last 200+ years, then we will mount it on a minimalist frame that is ready to stand on your desktop either in the office or at home. </p>
+<p>All photos are printed on our top of the line HP large format printer using HP original pigment ink. Then our print master mounts your lovely photo on silver lining minimalist frame, which is produced by our business partner and print finishing industry leader Spiral Binding LLC.</p>
+<p>yes, we do offer 200 years non-faded warranty on all of our final photo prints. </p>
+<p>currently, we only offer one size: 8"x10"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://bewellna.com/products/4504194318398</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bewellna.com/products/4504188616766</id>
+    <published>2020-04-27T20:50:22-04:00</published>
+    <updated>2020-04-27T20:50:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bewellna.com/products/photo-engraved-on-basswood-plank-slice"/>
+    <title>Photo Engraved on Basswood Plank/Slice</title>
+    <s:type>Engraved Woodcraft</s:type>
+    <s:vendor>Bewell of North America LLC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/8887/9166/products/90I7895.jpg?v=1602205318"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bewell of North America LLC<br>
+        <strong>Type: </strong>Engraved Woodcraft<br>
+        <strong>Price: </strong>
+            49.00 - 119.00
+            <a href="https://bewellna.com/products/photo-engraved-on-basswood-plank-slice">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our engraving artist uses our top of the line laser engraver Epilog Laser engraving machine to engrave your lovely photo and message on natural basswood plank with live edge/barks. The basswood plank/slice is the USA harvested and made in Dodgeville, Wisconsin. And our print master engraves all the art pieces locally in Concord, NC. </p>
+<p>We currently offer 3 different sizes; 5"x7", 8"x8", 13"x7"-9'. (please note: the actual size will vary slightly from the above size, some are a bit bigger, some are a bit smaller.) All the basswood slice come with beautiful live edge/barks.</p>
+<p>All final piece comes with a tabletop stand. </p>
+<p>It is a perfect gift for anniversary, birthday, father day, mother day.</p>
+<p>All the final engraved pieces will carry our 200 years non-faded warranty. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>photo engraved on wood plank</s:tag>
+    <s:tag>photo engraved on wood slice</s:tag>
+    <s:variant>
+      <id>https://bewellna.com/products/4504188616766</id>
+      <title>5&quot;x7&quot;</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>499</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bewellna.com/products/4504188616766</id>
+      <title>8&quot;x8&quot;</title>
+      <s:price currency="USD">59.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>499</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bewellna.com/products/4504188616766</id>
+      <title>13&quot;x7&quot;-10&quot;</title>
+      <s:price currency="USD">119.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>499</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bewellna.com/products/4504167579710</id>
+    <published>2020-04-27T20:50:22-04:00</published>
+    <updated>2020-04-27T20:50:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bewellna.com/products/photo-on-basswood-slice"/>
+    <title>Photo on Basswood Slice</title>
+    <s:type>Engraved Woodcraft</s:type>
+    <s:vendor>Bewell of North America LLC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/8887/9166/products/90I8019.jpg?v=1603028059"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bewell of North America LLC<br>
+        <strong>Type: </strong>Engraved Woodcraft<br>
+        <strong>Price: </strong>
+            29.00 - 79.00
+            <a href="https://bewellna.com/products/photo-on-basswood-slice">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Put your lovely photos and memories on natural basswood slice with barks/live edge. Our print master personally handcrafted all the art pieces using dedicated 18 steps to make each final art piece as unique as your memories are. All the final pieces will carry our 99 years non-faded warranty. You can see the beautiful natural wood grain run through your photo. It is a perfect gift for any special occasion, such as 5 years anniversary, father day, mother day, birthday, any special celebration. </p>
+<p><span>The picture gets printed then it gets transfer onto the basswood slice, the printed picture becomes part of the wood. All of our wood prints get a light coat of protection so you don't have to worry about color fading. (We do offer 99 years warranty on this photo on the wood art piece. ) </span></p>
+<p><span>Each final piece is unique and different, just like the wood grain and its character. We cherish your special memories as much as you do. </span></p>
+<p><span>The final piece readily comes with a nice desk stand, it is ready to stand on the tabletop either at home or in the office. </span></p>
+<p><span>Please note: the sizes are approximate size, the actual size might be a bit bigger or slightly smaller. (wood pieces are unique and different from their own character.)</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>basswood</s:tag>
+    <s:tag>engrave wood photos</s:tag>
+    <s:tag>photo on basswood slice</s:tag>
+    <s:tag>photo on wood</s:tag>
+    <s:variant>
+      <id>https://bewellna.com/products/4504167579710</id>
+      <title>4&quot;x6&quot;</title>
+      <s:price currency="USD">29.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bewellna.com/products/4504167579710</id>
+      <title>5&quot;x7&quot;</title>
+      <s:price currency="USD">39.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bewellna.com/products/4504167579710</id>
+      <title>8&quot;x8&quot;</title>
+      <s:price currency="USD">59.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bewellna.com/products/4504167579710</id>
+      <title>13&quot;x7&quot;-9&quot;</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bewellna.com/products/4480891912254</id>
+    <published>2020-04-12T21:58:37-04:00</published>
+    <updated>2020-04-12T21:58:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bewellna.com/products/engraved-leather-photo"/>
+    <title>Engraved Leather Photo</title>
+    <s:type>Engraved Woodcraft</s:type>
+    <s:vendor>Bewell of North America LLC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/8887/9166/products/90I7322.jpg?v=1602192361"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bewell of North America LLC<br>
+        <strong>Type: </strong>Engraved Woodcraft<br>
+        <strong>Price: </strong>
+            35.99 - 99.00
+            <a href="https://bewellna.com/products/engraved-leather-photo">(19 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tough times don't last, Lovely memories do.</p>
+<p>We're currently offering our new product: Engraved Leather photo with your own lovely photo. It is a perfect 3rd-anniversary gift for him/her. </p>
+<p>Your beloved photos will be engraved on the Italian premium full-grain cowhide leather. We source all of our premium Italian Leather through our reliable vendor. And our leather craftsman hand picks the best full grain leather to engrave your personal photo and message.</p>
+<p>We use the best of the industry Epilog laser Engraving machine to prepare your masterpiece. Plus, we also invented some unique and creative processing procedure to mount the leather flat to make the final result the best on the market. </p>
+<p>Yes, we offer our 100% satisfaction guarantee to all our engraved leather photos!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://bewellna.com/products/4480891912254</id>
+      <title>4x4 / Display Ready Frame</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bewellna.com/products/4480891912254</id>
+      <title>4x4 / Picture Frame</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bewellna.com/products/4480891912254</id>
+      <title>4x4 / Mat Board w/o Stand</title>
+      <s:price currency="USD">35.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bewellna.com/products/4480891912254</id>
+      <title>4x6 / Display Ready Frame</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bewellna.com/products/4480891912254</id>
+      <title>4x6 / Picture Frame</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bewellna.com/products/4480891912254</id>
+      <title>4x6 / Mat Board w Stand</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bewellna.com/products/4480891912254</id>
+      <title>4x6 / Mat Board w/o Stand</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bewellna.com/products/4480891912254</id>
+      <title>5x7 / Display Ready Frame</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bewellna.com/products/4480891912254</id>
+      <title>5x7 / Picture Frame</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bewellna.com/products/4480891912254</id>
+      <title>5x7 / Mat Board w Stand</title>
+      <s:price currency="USD">55.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bewellna.com/products/4480891912254</id>
+      <title>5x7 / Mat board w/o Stand</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bewellna.com/products/4480891912254</id>
+      <title>6x6 / Mount on display ready frame</title>
+      <s:price currency="USD">65.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bewellna.com/products/4480891912254</id>
+      <title>6x6 / Come with picture frame</title>
+      <s:price currency="USD">65.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bewellna.com/products/4480891912254</id>
+      <title>6x6 / mount on mat board with stand</title>
+      <s:price currency="USD">65.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bewellna.com/products/4480891912254</id>
+      <title>6x6 / Mount on mat board without stand</title>
+      <s:price currency="USD">65.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bewellna.com/products/4480891912254</id>
+      <title>8x10 / Mount on display ready frame</title>
+      <s:price currency="USD">99.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bewellna.com/products/4480891912254</id>
+      <title>8x10 / Come with picture frame</title>
+      <s:price currency="USD">79.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bewellna.com/products/4480891912254</id>
+      <title>8x10 / mount on mat board with stand</title>
+      <s:price currency="USD">75.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bewellna.com/products/4480891912254</id>
+      <title>8x10 / Mount on mat board without stand</title>
+      <s:price currency="USD">75.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+</feed>

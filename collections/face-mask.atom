@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bewellna.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bewellna.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bewellna.com/collections/face-mask.atom"/>
+  <title>Bewell of North America LLC</title>
+  <updated>2021-03-12T15:21:32-05:00</updated>
+  <author>
+    <name>Bewell of North America LLC</name>
+  </author>
+  <entry>
+    <id>https://bewellna.com/products/4609601798206</id>
+    <published>2021-03-12T15:21:32-05:00</published>
+    <updated>2021-03-12T15:21:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bewellna.com/products/kn95-protective-face-mask-10-pack"/>
+    <title>KN95 Protective Face Mask (10 per Pack)</title>
+    <s:type>Face Mask</s:type>
+    <s:vendor>Bewell of North America LLC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/8887/9166/products/J5A1432.jpg?v=1599575639"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bewell of North America LLC<br>
+        <strong>Type: </strong>Face Mask<br>
+        <strong>Price: </strong>
+            15.99 - 119.99
+            <a href="https://bewellna.com/products/kn95-protective-face-mask-10-pack">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Our KN95 Face Mask is KN95 and European FFP2 certified, similar to the American N95 certified mask. KN95 is an industrial manufacturing standard meaning our masks are effective against 95 percent of particles with a mass median diameter of 0.3 micrometers or larger. Properly worn masks can protect very well against PM10, PM2.5, and smaller particles. BFE&gt;95% (Bacterial filtration efficiency) </span></p>
+<meta charset="utf-8">
+<p><span><strong>• MEDICAL GRADE MATERIALS • HIGHLY EFFICIENT FILTRATION • OPTIMAL COMFORT</strong></span></p>
+<meta charset="utf-8">
+<p>The KN95 Face Mask can help reduce exposure to biological substances, such as bacteria and viruses. Please note however that wearing a mask cannot eliminate the risk of infection as it depends on the proper fit of the wearer.</p>
+<ul>
+<li>
+<strong>Pollen</strong><span> </span>- The KN95 Face Mask can protect you from pollen. Our filter has an efficiency of above 95% at 0.3 pm particle size, whereas normal pollen particles are about 10 - 1000 pm in size.</li>
+<li>
+<strong>Animal Allergens</strong><span> </span>- The KN95 Face Mask can protect you from animal allergens. Efficiency of above 95% at 0,3 pm particle size, animal allergen particles are about 5 - 10 pm in size.</li>
+<li>
+<strong>Size:</strong><span> </span>175 x 95mm Quantity 10 PCS/Bag</li>
+<li>
+<strong>In Stock</strong><span> </span>at our US Warehouse in Concord, NC</li>
+<li>Each pack will also come with a free Magic Ear comfort strap to help you wear your face mask more comfortably for long period of time. </li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://bewellna.com/products/4609601798206</id>
+      <title>10 (1 pack)</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bewellna.com/products/4609601798206</id>
+      <title>20 (2 packs)</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bewellna.com/products/4609601798206</id>
+      <title>50 (5 packs)</title>
+      <s:price currency="USD">65.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bewellna.com/products/4609601798206</id>
+      <title>100 (10 packs)</title>
+      <s:price currency="USD">119.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bewellna.com/products/4805630853182</id>
+    <published>2021-01-28T19:35:40-05:00</published>
+    <updated>2021-01-28T19:35:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bewellna.com/products/kn95-face-mask-50-pack"/>
+    <title>KN95 Face Mask 50 Pack</title>
+    <s:type>Face Mask</s:type>
+    <s:vendor>Bewell of North America LLC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/8887/9166/products/J5A6408.jpg?v=1612653499"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bewell of North America LLC<br>
+        <strong>Type: </strong>Face Mask<br>
+        <strong>Price: </strong>
+            69.00 - 799.00
+            <a href="https://bewellna.com/products/kn95-face-mask-50-pack">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="a-size-large a-spacing-none" data-mce-fragment="1"><span id="productTitle" class="a-size-large product-title-word-break" data-mce-fragment="1">5-Layer Breathable Cup Dust Mask with Elastic Earloop and Nose Bridge Clip, Protection Against PM2.5 Dust, Air Pollution, White color</span></p>
+<ul>
+<li><span class="a-size-large product-title-word-break" data-mce-fragment="1"><span>Our kn95 face masks are made of two layers of non-woven cloth, two layers of melt-blown fabric, one layer of hot air cotton. From outside to inside, the second and third layers are melt blown cloth. </span></span></li>
+<li><span class="a-size-large product-title-word-break" data-mce-fragment="1"><span>The 3D shape is designed according to the human face shape to ensure the tightness. With soft and high elastic earloop, the metal adjustable nose clip bridge and the dot matrix welding. Provide a light weight wearing experience for you. Easy to use, cover mouth, nose and chin</span></span></li>
+<li><span class="a-size-large product-title-word-break" data-mce-fragment="1"><span>Compact design, you will receive 50Pcs kn95 face masks, A lightweight and foldable design makes these face masks easy to fold into your bag, easy to incorporate and save space</span></span></li>
+<li><span class="a-size-large product-title-word-break" data-mce-fragment="1"><span>It’s a best mask to wear it when you travel through congested airports, bus terminals, malls, party and busy city streets. keep you from dust, PM 2.5, haze, smoke, automobile exhaust, etc. Pack of 50 masks enough to meet your family /staff /friends' demands.</span></span></li>
+<li><span class="a-size-large product-title-word-break" data-mce-fragment="1"><span>Stay safe and healthy from the current Coronavirus pandemic. Together, we will win over this pandemic.</span></span></li>
+<li><span class="a-size-large product-title-word-break" data-mce-fragment="1"><span>Bonus: when you buy each box of our KN95 face mask, we will also include a free ear comfort strap to help  you release your ear stress when you wear your face mask for long period of time.</span></span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>face mask</s:tag>
+    <s:tag>face mask kn95</s:tag>
+    <s:tag>kn95</s:tag>
+    <s:tag>kn95 face mask</s:tag>
+    <s:tag>Love USA face mask</s:tag>
+    <s:variant>
+      <id>https://bewellna.com/products/4805630853182</id>
+      <title>1 box of 50</title>
+      <s:price currency="USD">69.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bewellna.com/products/4805630853182</id>
+      <title>2 boxes of 100</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bewellna.com/products/4805630853182</id>
+      <title>3 boxes of 150</title>
+      <s:price currency="USD">169.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bewellna.com/products/4805630853182</id>
+      <title>5 boxes of 250</title>
+      <s:price currency="USD">249.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bewellna.com/products/4805630853182</id>
+      <title>10 boxes of 500</title>
+      <s:price currency="USD">419.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bewellna.com/products/4805630853182</id>
+      <title>20 boxes of 1000</title>
+      <s:price currency="USD">799.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bewellna.com/products/4609652621374</id>
+    <published>2020-06-26T04:28:08-04:00</published>
+    <updated>2020-06-26T04:28:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bewellna.com/products/reusable-face-shields-splash-guard"/>
+    <title>Reusable Face Shields/Splash Guard</title>
+    <s:type>Face Mask</s:type>
+    <s:vendor>Bewell of North America LLC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/8887/9166/products/J5A1466.jpg?v=1597786358"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bewell of North America LLC<br>
+        <strong>Type: </strong>Face Mask<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">This face shields with eye shield can be recycled after disinfection</span></li>
+<li><span class="a-list-item">Large area from the eyebrows to the chin to protect against foreign aggression,Full Facial Protection from droplets, saliva, splash, dust and oil</span></li>
+<li><span class="a-list-item">PET + sponge material, anti-fog and anti-static coating treatment, clear and double-sided anti-fog effect. (Protect eyes, nose and mouth.) Size: 32 x 22x 0.025cm. Weight: 80g</span></li>
+<li><span class="a-list-item">Good elastic masks is soft and comfortable, will not hurt your ears even after wear it all days，Easy to adjust for a custom with elastic headband, No smells, Light weight, Highly breathable</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>face shield</s:tag>
+    <s:variant>
+      <id>https://bewellna.com/products/4609652621374</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bewellna.com/products/4609634992190</id>
+    <published>2020-06-26T04:13:33-04:00</published>
+    <updated>2020-06-26T04:13:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bewellna.com/products/clothes-mask"/>
+    <title>Love USA Reusable Protective Cloth Mask</title>
+    <s:type>Face Mask</s:type>
+    <s:vendor>Bewell of North America LLC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/8887/9166/products/90I8461.jpg?v=1612653656"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bewell of North America LLC<br>
+        <strong>Type: </strong>Face Mask<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>We designed and hand made our Love USA patriotic reusable fashion and protective face mask locally in Charlotte, NC. It is a fashion statement and very comfortable.</p>
+<ul>
+<li>It is washable and reusable</li>
+<li>It has two layers of fabric</li>
+<li>It is reversible, one side has Love USA, the other side have either blue, red or both color stars</li>
+<li>Each one will come with our new invention, the magic ear comfort strap to help you feel more comfortable when you wear your face mask long period of time</li>
+</ul>
+<p>Note: All the style variations all have one side that carry the Love USA pattern. The reverse side has their own stars color choice. Please pick the one you like when you check out. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Love USA face mask</s:tag>
+    <s:variant>
+      <id>https://bewellna.com/products/4609634992190</id>
+      <title>Blue</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bewellna.com/products/4609634992190</id>
+      <title>Red</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bewellna.com/products/4609634992190</id>
+      <title>Blue &amp; Red</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bewellna.com/products/4609634992190</id>
+      <title>Mixed</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bewellna.com/products/4609615167550</id>
+    <published>2020-06-26T03:50:38-04:00</published>
+    <updated>2020-06-26T03:50:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bewellna.com/products/magic-ear-comfort-strap-for-face-mask"/>
+    <title>Ear Comfort Strap For Face Mask</title>
+    <s:type>Face Mask</s:type>
+    <s:vendor>Bewell of North America LLC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/8887/9166/products/J5A1421.jpg?v=1597787280"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bewell of North America LLC<br>
+        <strong>Type: </strong>Face Mask<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>We created this Magic Ear comfort strap to make you feel more comfortable when you wear face mask for extensive period of time. The strap is created and hand made in the United State.</p>
+<p>This little magic strap will give daily comfort when you wear your face mask for long period of time. </p>
+<p>If you are ordering for hospital or other health care facility, please contact us for addiction discount. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://bewellna.com/products/4609615167550</id>
+      <title>Blue</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bewellna.com/products/4609615167550</id>
+      <title>Red</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bewellna.com/products/4471988977726</id>
+    <published>2020-03-30T21:03:53-04:00</published>
+    <updated>2020-03-30T21:03:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bewellna.com/products/disposable-3-layer-face-masks"/>
+    <title>Disposable 3-Layer Face Masks (50 pcs)</title>
+    <s:type>Face Mask</s:type>
+    <s:vendor>Bewell Watches</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/8887/9166/products/mask-box.jpg?v=1597786076"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bewell Watches<br>
+        <strong>Type: </strong>Face Mask<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pack includes 50 disposable single-use designed to ensure a secure fit with nose clip. Masks are unisex and all one size. Easy to put on with no strings to tie. Item is a 3-ply disposable face mask covering mouth and nose. This product is NOT a surgical mask. This product is NOT Personal Protective Equipment (PPE) and should not be used to meet a professional healthcare facility’s obligations to protect workers against infectious disease hazards. Use at your own risk. Not for use in a clinical setting where the infection risk level through inhalation exposure is high. This product has been FDA approved. </p>
+<ul>
+<li>Outer layer: 100% non-woven (polypropylene)</li>
+<li>Middle layer: 100% melt-blown (polypropylene)</li>
+<li>Inside layer: 100% non-woven (polypropylene)</li>
+<li>Nose clip: 45% polypropylene, 55% iron wire</li>
+<li>Ear-loops: 75% nylon, 25% spandex</li>
+</ul>
+<p>FAST USA SHIPPING – Due to theses hard times and extreme demand we want to make sure to meet your needs. Once your order is received, we process and ship with in 1 business day</p>
+<p>INDUSTRIAL QUALITY – Manufactured in a sterile facility. Samples are tested regularly to ensure contaminants are being prevented from entering and exiting.</p>
+<p>Wholesale price available! Please <a href="https://bewellna.com/pages/contact-us" title="Contact Us Bewell Watches">contact us</a> for more buying options.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>face mask</s:tag>
+    <s:variant>
+      <id>https://bewellna.com/products/4471988977726</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>
